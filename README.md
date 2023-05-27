@@ -1,0 +1,2 @@
+# Movie-recommendation-system
+A movie recommendation system using tags is a specific type of recommendation system that suggests movies to users based on assigned tags or labels. Tags are descriptive keywords or labels associated with movies that represent their attributes, genres, themes, or other relevant characteristics. By utilizing these tags, the recommendation system can provide personalized movie recommendations to users.
